@@ -1,6 +1,7 @@
 {
-	"author": "Vinoth Kumar Shanmugam",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Vinoth Kumar Shanmugam",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
